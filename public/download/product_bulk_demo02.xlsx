@@ -1,0 +1,16 @@
+id,name,added_by,user_id,unique_id,brand_name,model_no,hsn_hscode,tech_parameters,cas_no,purity,volume_weight,country_of_origin,city_of_origin,product_certification,coa_msds,category_id,brand_id,photos,thumbnail_img,video_provider,video_link,tags,description,unit_price,purchase_price,variant_product,attributes,choice_options,colors,variations,todays_deal,published,approved,stock_visibility_state,cash_on_delivery,featured,seller_featured,current_stock,unit,min_qty,low_stock_quantity,discount,discount_type,discount_start_date,discount_end_date,tax,tax_type,shipping_type,shipping_cost,is_quantity_multiplied,est_shipping_days,num_of_sale,meta_title,meta_description,meta_img,pdf,slug,rating,barcode,digital,auction_product,file_name,file_path,external_link,external_link_btn,wholesale_product
+1,Demo Product 22,Demo Product Description,1,1,youtube,,"Best Selling,demo Product,Baby product ",55,59,pc,demo-product-22,10,Demo Product 22,,,https://adyanmart.s3.ap-southeast-1.amazonaws.com/uploads/products/thumbnail/ZJqm0yHhBrLD7Zn2Wbtw6nkKxKtB9xntMh8ON8D1.jpeg,"https://adyanmart.s3.ap-southeast-1.amazonaws.com/uploads/products/thumbnail/ZJqm0yHhBrLD7Zn2Wbtw6nkKxKtB9xntMh8ON8D1.jpeg,https://adyanmart.s3.ap-southeast-1.amazonaws.com/uploads/products/thumbnail/ZJqm0yHhBrLD7Zn2Wbtw6nkKxKtB9xntMh8ON8D1.jpeg",57,57,youtube,NULL,mercury,NULL,2000,NULL,0,[],[],[],NULL,0,1,1,quantity,1,1,0,20,1,1,1,200,amount,NULL,NULL,NULL,NULL,free,0,0,NULL,0,Mercury,,57,NULL,mercury,0,NULL,0,0,NULL,NULL,NULL,NULL,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
